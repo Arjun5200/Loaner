@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Loaner Request">06a9dada190203107f446e784a38a144</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-24 13:20:37</sys_created_on>
+        <sys_id>455ad59df09203107f44f64423b7a7b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GlideRecord.update</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">06a9dada190203107f446e784a38a144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">06a9dada190203107f446e784a38a144</sys_scope>
+        <sys_update_name>sys_scope_privilege_455ad59df09203107f44f64423b7a7b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-24 13:20:37</sys_updated_on>
+        <target_name>GlideRecord.update</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

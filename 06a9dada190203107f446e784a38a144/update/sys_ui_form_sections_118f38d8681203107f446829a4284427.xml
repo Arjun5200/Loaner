@@ -31,16 +31,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-07-21 08:52:19</sys_created_on>
+            <sys_created_on>2026-07-24 15:04:51</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e920cdd8681203107f446829a42844d5</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_id>c8323151f01603107f44f64423b7a7f0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_cdltd_loaner_r_0_loaner_request" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">118f38d8681203107f446829a4284427</sys_ui_form>
-            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">6120cdd8681203107f446829a42844d3</sys_ui_section>
+            <sys_ui_section caption="Reminder" display_value="Reminder" name="x_cdltd_loaner_r_0_loaner_request" sys_domain="global" view="Default view">7b223151f01603107f44f64423b7a7e4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-07-21 08:55:33</sys_updated_on>
+            <sys_updated_on>2026-07-24 15:04:51</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_cdltd_loaner_r_0_loaner_request</name>
